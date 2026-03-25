@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # Auth System
 
 > A complete authentication system with register, login, JWT tokens and password hashing.
